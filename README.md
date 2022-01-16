@@ -1,2 +1,2 @@
 # Hiveos-Miners
-HiveosMiners
+Miner for use in HiveOS
